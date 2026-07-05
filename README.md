@@ -176,21 +176,6 @@ Generated outputs include:
 
 CORTEX uses Retrieval-Augmented Generation (RAG) to retrieve municipal regulations and decision-support context from a vector database before producing recommendations.
 
----
-
-# 📷 Screenshots
-
-Add screenshots after deployment.
-
-Suggested images:
-
-- Dashboard
-- Upload Page
-- Analytics
-- Incident Map
-- Executive Summary
-
----
 
 # ⚙ Installation
 
